@@ -1,0 +1,31 @@
+E:\Cousera\Introduction to C# Programming and Unity\Github\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe.config
+E:\Cousera\Introduction to C# Programming and Unity\Github\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe
+E:\Cousera\Introduction to C# Programming and Unity\Github\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.pdb
+E:\Cousera\Introduction to C# Programming and Unity\Github\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csproj.AssemblyReference.cache
+E:\Cousera\Introduction to C# Programming and Unity\Github\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\Cousera\Introduction to C# Programming and Unity\Github\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.exe
+E:\Cousera\Introduction to C# Programming and Unity\Github\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.pdb
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\Your First Console App in Visual Studio\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csproj.AssemblyReference.cache
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\Your First Console App in Visual Studio\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\Your First Console App in Visual Studio\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.exe
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\Your First Console App in Visual Studio\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.pdb
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe.config
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.pdb
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csproj.AssemblyReference.cache
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.exe
+E:\Online-Self-Learning\Github-Add\Online-Self-Learning\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.pdb
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe.config
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.pdb
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csproj.AssemblyReference.cache
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.exe
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\My_Code\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.pdb
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe.config
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.pdb
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.exe
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.pdb

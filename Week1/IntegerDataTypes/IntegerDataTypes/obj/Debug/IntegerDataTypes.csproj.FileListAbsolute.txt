@@ -1,0 +1,6 @@
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.pdb
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.csproj.AssemblyReference.cache
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.csproj.CoreCompileInputs.cache
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.exe
+E:\Online-Self-Learning\Online-Self-Learing\Cousera\Introduction-to-C-Sharp-Programming-and-Unity\Week1\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.pdb
